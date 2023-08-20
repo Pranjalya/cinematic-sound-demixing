@@ -165,7 +165,6 @@ if __name__ == '__main__':
         print('{}: {}'.format(el, options[el]))
     predict_with_model(options)
     print('Time: {:.0f} sec'.format(time() - start_time))
-    print('Presented by https://mvsep.com')
 
 
 """
